@@ -2,17 +2,17 @@
 # CARL Analysis Document
 
 ## Project Overview
-**Project Name**: Designer Portfolio
-**Tech Stack**: NextJS, Firebase
-**Team Size**: Dev=2, Desgin=2, total=4
-**Analysis Date**:  20-Nov-2024
-**Developer Team**
-- Mujeeb ur Rahman
-- Muhmmad Ahmed
+- **Project Name**: Designer Portfolio
+- **Tech Stack**: NextJS, Firebase
+- **Team Size**: Dev=2, Desgin=2, total=4
+- **Analysis Date**:  20-Nov-2024
+- **Developer Team**
+  - Mujeeb ur Rahman
+  - Muhmmad Ahmed
 
-**Design Team**
-- Izza
-- Sidra Saeed
+- **Design Team**
+  - Izza
+  - Sidra Saeed
 
 ## 1. Capabilities (Current State)
 
